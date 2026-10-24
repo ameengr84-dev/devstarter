@@ -1,8 +1,13 @@
-# Contributing to DevStarter
+# Contributing Guidelines
 
-Thanks for your interest in contributing!
+Thank you for your interest in contributing to [devstarter](https://github.com/tkmfoss/devstarter)! 
 
-This guide walks you through the contribution workflow for DevStarter.
+## Code of Conduct
+
+By participating in this project, you agree to abide by our terms outlined in our [Code of Conduct](CODE_OF_CONDUCT.md). Please report any unacceptable behavior to [conduct@example.com](mailto:conduct@example.com).
+
+## How to Contribute
+...
 
 ## 1. Find an issue and read its acceptance criteria
 
@@ -70,3 +75,6 @@ Open the PR from your fork's branch to the upstream default branch.
 ## 11. Wait for approval and merge
 
 A maintainer will review; once approved, the PR will be merged.
+
+    
+
